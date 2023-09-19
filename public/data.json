@@ -1,0 +1,77 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "course_img": "https://i.ibb.co/HHmK4mm/Introduction-To-Machine-Learning-1.jpg",
+        "course_title": "Introduction to machine learning",
+        "course_details": "Learn the basics of machine learning algorithms and techniques.",
+        "price": 49.99,
+        "credit": 3
+      },
+      {
+        "id": 2,
+        "course_img": "https://i.ibb.co/x1kys0L/Data-Scientist-Courses.png",
+        "course_title": "Data analysis with Python",
+        "course_details": "Master data analysis using Python and popular libraries like Pandas and Matplotlib.",
+        "price": 59.99,
+        "credit": 4
+      },
+      {
+        "id": 3,
+        "course_img": "https://i.ibb.co/HpkJqJL/react-thumbnail.jpg",
+        "course_title": "React fundamentals",
+        "course_details": "Build interactive web applications with React.js from scratch.",
+        "price": 39.99,
+        "credit": 2
+      },
+      {
+        "id": 4,
+        "course_img": "https://i.ibb.co/mh4bkx5/maxresdefault-2.jpg",
+        "course_title": "Advanced machine learning techniques",
+        "course_details": "Dive deep into advanced machine learning concepts and applications.",
+        "price": 79.99,
+        "credit": 5
+      },
+      {
+        "id": 5,
+        "course_img": "https://i.ibb.co/djNZHck/Data-Science-Course-Kozhikode.webp",
+        "course_title": "Data visualization with R",
+        "course_details": "Create stunning data visualizations using R and ggplot2.",
+        "price": 69.99,
+        "credit": 4
+      },
+      {
+        "id": 6,
+        "course_img": "https://i.ibb.co/ySJWr7T/react-f02200115da09fd485a296e351972d7ea75701ed8d3d023d9f18c4b38e6b18b0.png",
+        "course_title": "React and Redux in practice",
+        "course_details": "Build real-world React applications with Redux state management.",
+        "price": 49.99,
+        "credit": 3
+      },
+      {
+        "id": 7,
+        "course_img": "https://i.ibb.co/8d56LqL/course-1662804460.jpg",
+        "course_title": "Deep learning fundamentals",
+        "course_details": "Explore the foundations of deep learning and neural networks.",
+        "price": 89.99,
+        "credit": 6
+      },
+      {
+        "id": 8,
+        "course_img": "https://i.ibb.co/SPnbdhj/maxresdefault-3.jpg",
+        "course_title": "Big data analytics",
+        "course_details": "Harness the power of big data for analytics and insights.",
+        "price": 79.99,
+        "credit": 5
+      },
+      {
+        "id": 9,
+        "course_img": "https://i.ibb.co/vmXxxNG/reactjs.png",
+        "course_title": "Advanced React patterns",
+        "course_details": "Master advanced React patterns and best practices.",
+        "price": 59.99,
+        "credit": 4
+      }
+    ]
+  }
+  
